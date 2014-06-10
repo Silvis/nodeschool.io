@@ -1,16 +1,1 @@
-LEARNYOUNODE
-Learning the basics of Node.js: asynchronous i/o, http
-
-[o] HELLO WORLD
-[o] BABY STEPS
-[o] MY FIRST I/O!
-[o] MY FIRST ASYNC I/O!
-[o] FILTERED LS
-[o] MAKE IT MODULAR
-[o] HTTP CLIENT
-[x] HTTP COLLECT
-[x] JUGGLING ASYNC
-[x] TIME SERVER
-[x] HTTP FILE SERVER
-[x] HTTP UPPERCASERER
-[x] HTTP JSON API SERVER
+Nodeschool.io
