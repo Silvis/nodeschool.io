@@ -1,0 +1,2 @@
+Convert data from `process.stdin` to upper-case data on `process.stdout`
+using the `through` module.
