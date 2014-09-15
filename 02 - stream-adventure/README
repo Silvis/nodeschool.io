@@ -6,7 +6,7 @@ Learning how to compose streaming interfaces with .pipe()
 [o] INPUT OUTPUT
 [o] TRANSFORM
 [o] LINES
-[x] CONCAT
+[o] CONCAT
 [x] HTTP SERVER
 [x] HTTP CLIENT
 [x] WEBSOCKETS
