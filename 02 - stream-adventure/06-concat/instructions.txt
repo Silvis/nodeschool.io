@@ -1,0 +1,2 @@
+You will be given text on process.stdin. Buffer the text and reverse it using
+the `concat-stream` module before writing it to stdout.
